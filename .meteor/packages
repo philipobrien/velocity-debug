@@ -8,11 +8,11 @@ meteor-platform
 jquery
 accounts-password
 iron:router
+es5-shim
 peernohell:c3
 sanjo:jasmine
 sacha:spin
 reactive-var
-es5-shim
 xolvio:cucumber
 velocity:html-reporter
 useraccounts:iron-routing
